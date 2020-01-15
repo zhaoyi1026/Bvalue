@@ -1,0 +1,2 @@
+export(pB,EEB)
+importFrom("stats", "pt", "qt")
